@@ -1,0 +1,20 @@
+PODS:
+  - MGSwipeTableCell (1.6.6)
+  - SwipeCellKit (2.0.0)
+
+DEPENDENCIES:
+  - MGSwipeTableCell
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MGSwipeTableCell
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  MGSwipeTableCell: c3bc6e261e7bc06c112909fe3fb8205de286082c
+  SwipeCellKit: 349c61ffde96ac3ae51c2691a03e421b5b29ee98
+
+PODFILE CHECKSUM: 437deb8ce96391c50e9cd5d94949f1284428a735
+
+COCOAPODS: 1.5.0
